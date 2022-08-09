@@ -15,7 +15,7 @@ export default function Home() {
       <Center h="100vh" pb={{ base: 12, md: 8 }} px={{ base: 8, md: 48 }}>
         <VStack>
           <VStack pb={4} spacing={2}>
-            <Heading>saferepo.xyz</Heading>
+            <Heading>githubtoipfs.xyz</Heading>
             <Text textAlign="center">
               save your repos to ipfs in the click of a button
             </Text>

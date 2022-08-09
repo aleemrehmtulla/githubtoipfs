@@ -23,7 +23,7 @@ const SearchBar = ({ setCid }) => {
       return;
     }
 
-    const data = await fetch(`/api/saferepo`, {
+    const data = await fetch(`/api/githubtoipfs`, {
       method: "POST",
       body: searchValue,
     });

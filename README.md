@@ -1,8 +1,8 @@
-# saferepo.xyz ⛓
+# githubtoipfs.com ⛓
 
 ## What is this?
 
-saferepo is a site to backup any public GitHub repo to IPFS, creating censorship resistant code 🤘
+githubtoipfs is a site to backup any public GitHub repo to IPFS, creating censorship resistant code 🤘
 
 ## Why did I build this?
 
@@ -16,13 +16,13 @@ i have so many projects that aren't backed up, that can be removed at any point 
 
 ## Usage 🤝
 
-1. head to `saferepo.xyz`
+1. head to `githubtoipfs.com`
 2. grab your `.zip` link from github by pressing `code` on the repo, and right-clicking `download .zip`
 3. throw it in and we'll give ya an IPFS hash!
 
 ## Deployments 💻
 
-Vercel: https://saferepo.xyz & https://saferepo.vercel.app
+Vercel: https://githubtoipfs.com & https://githubtoipfs.vercel.app
 
 ## For development 🧑‍💻
 
