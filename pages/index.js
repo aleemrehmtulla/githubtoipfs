@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Safe Repo</title>
+        <title>githubtoipfs.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Center h="100vh" pb={{ base: 12, md: 8 }} px={{ base: 8, md: 48 }}>
