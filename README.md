@@ -12,7 +12,7 @@ i have so many projects that aren't backed up, that can be removed at any point 
 
 ## Demo!
 
-![demo-gif](https://user-images.githubusercontent.com/60443878/183717915-ebccc667-7aeb-4573-803f-d26588842030.gif)
+![demo](https://user-images.githubusercontent.com/60443878/183733496-0fe8e123-7d34-4994-a5da-7ea0cf6dbd40.gif)
 
 ## Usage 🤝
 
