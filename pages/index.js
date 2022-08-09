@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { useState } from "react";
-import { Center, VStack, Text, Heading, Image } from "@chakra-ui/react";
+import { Center, VStack, Text, Heading, Image, Link } from "@chakra-ui/react";
 import ViewCid from "../components/ViewCid";
 import SearchBar from "../components/SearchBar";
 
@@ -33,6 +33,21 @@ export default function Home() {
           )}
         </VStack>
       </Center>
+      <Text mt="-20" textAlign="center" fontSize={{ base: "xs", md: "md" }}>
+        built w/ fear by{" "}
+        <Link href="https://twitter.com/aleemrehmtulla" color="blue.700">
+          @aleemrehmtulla
+        </Link>
+      </Text>
+      <Text mt={1} textAlign="center" fontSize={{ base: "8", md: "12" }}>
+        and yes. this is{" "}
+        <Link
+          href="https://github.com/aleemrehmtulla/githubtoipfs"
+          color="blue.700"
+        >
+          opensource
+        </Link>
+      </Text>
     </>
   );
 }
