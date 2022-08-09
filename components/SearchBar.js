@@ -64,7 +64,7 @@ const SearchBar = ({ setCid }) => {
         color="white"
         onClick={handleSubmit}
       >
-        Search
+        GitHub {"->"} IPFS
       </Button>
     </VStack>
   );
